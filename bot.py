@@ -37,11 +37,52 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
-    "Junior SEO remote",
-    "Technical SEO remote",
-    "SEO Content Editor remote",
-    "SEO Python remote",
-    "WordPress SEO Specialist remote",
+    # InSAR / Radar
+    "InSAR scientist",
+    "InSAR researcher",
+    "SAR remote sensing scientist",
+    "radar remote sensing researcher",
+    "earth observation scientist",
+
+    # Geodesy / Geodynamics
+    "geodesy researcher",
+    "geodynamics scientist",
+    "crustal deformation researcher",
+    "GNSS geodesy scientist",
+
+    # GIS / Geospatial
+    "GIS analyst remote",
+    "GIS specialist remote",
+    "geospatial analyst remote",
+    "geospatial data scientist",
+    "spatial data analyst",
+
+    # Surveying / Geomatics
+    "land surveyor",
+    "surveying engineer",
+    "geomatics engineer",
+    "civil 3d specialist",
+
+    # Remote Sensing / EO
+    "remote sensing scientist",
+    "remote sensing researcher",
+    "earth observation researcher",
+
+    # PhD / Postdoc
+    "phd geodesy funded",
+    "phd remote sensing funded",
+    "phd GIS funded",
+    "phd earth observation funded",
+    "postdoctoral researcher InSAR",
+    "postdoctoral researcher geodesy",
+    "research fellow remote sensing",
+
+    # Platform-specific
+    "insar scientist via linkedin",
+    "geodesy researcher via linkedin",
+    "remote sensing scientist via linkedin",
+    "phd geodesy via linkedin",
+    "postdoc remote sensing via linkedin",
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
