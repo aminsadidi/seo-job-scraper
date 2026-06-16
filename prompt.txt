@@ -6,9 +6,8 @@ You must thoroughly analyze the following job description URL to extract the cor
 
 STEP 2: CANDIDATE PROFILING & ASSET ALIGNMENT
 Review my exact skills and experience below.
-My name is Amin Hossein Sadidi, a SEO specialist. I have built and successfully optimized exactly 4 websites from scratch (2 of which are strictly in the B2B sector for Agriculture and Construction). I specialize in Content SEO, advanced Technical SEO for WordPress, and high-ROI Off-Page link-building for lean budgets.
-STEP 3: STRICT EXECUTION RULES & CONSTRAINTS (MANDATORY)
-You must adhere to the following rules with 100% compliance. Failure to do so will result in immediate rejection of the output.
+
+متن توضیحات درباره خودتان را اینجا قرار دهید 
 
 1. ZERO HALLUCINATION POLICY: You are strictly forbidden from inventing, exaggerating, or fabricating any skills, experiences, degrees, or metrics that are not explicitly stated in my Candidate Profile above. Focus exclusively on aligning my actual capabilities with the job requirements.
 2. ANTI-AI TONE & AUTHENTICITY GUARDRAILS: The text must sound entirely human, pragmatic, and professional. You must absolutely ban the use of generic AI filler words. DO NOT use words such as: "delve", "thrilled", "testament", "uniquely qualified", "in today's dynamic landscape", "passionate", "moreover", "beacon", "landscape", or "embark".
